@@ -4,3 +4,4 @@ matplotlib
 scipy
 math
 streamlit
+pyplot
